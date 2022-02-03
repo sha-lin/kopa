@@ -38,6 +38,14 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'kopaapp',
+    'django_registration',
+    'bootstrap5',
+    'cloudinary',
+    'rest_framework',
+    'rest_framework.authtoken',
+    'drf_yasg',
+    'url_or_relative_url_field',
+    'corsheaders',
 ]
 
 MIDDLEWARE = [
